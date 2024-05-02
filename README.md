@@ -2,6 +2,9 @@
 
 Features authentication & authorization, working with multiple json web tokens, dual frontends (user and admin)
 
+## Future Developments 
+This is not the end; I will plan to enhance this project with additional functionalities based on user feedback and evolving needs in future.
+
 ## Features
 ### Authentication & Authorization
 * Standard authentication
